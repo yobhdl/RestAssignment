@@ -1,0 +1,33 @@
+{
+  "bookingdata" :[
+    {
+      "firstname": "first1",
+      "lastname": "last1",
+      "totalprice": "2000",
+      "depositpaid": "true",
+      "checkin": "2022-06-12",
+      "checkout": "2022-06-15",
+      "additionalneeds": "Need 2 pair of towel"
+    },
+    {
+      "firstname": "fir1",
+      "lastname": "las1",
+      "totalprice": "2000",
+      "depositpaid": "true",
+      "checkin": "2022-06-22",
+      "checkout": "2022-06-23",
+      "additionalneeds": "toothpaste"
+    }
+  ],
+  "bookingdatabyid" :[
+    {
+      "firstname": "first1",
+      "lastname": "last1",
+      "totalprice": "2000",
+      "depositpaid": "true",
+      "checkin": "2022-06-12",
+      "checkout": "2022-06-14",
+      "additionalneeds": "Need BreakFast"
+    }
+  ]
+}
